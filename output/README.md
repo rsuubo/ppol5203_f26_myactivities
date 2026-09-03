@@ -1,1 +1,2 @@
 # ppol5203_f26_myactivities
+https://github.com/rsuubo/ppol5203_f26_myactivities/blob/dea84cc7a95cd567cb8c12adac9def0bb1de0f7b/code/week2_activity.ipynb
